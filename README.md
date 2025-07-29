@@ -1,5 +1,5 @@
 
-# (Nome do Projeto)
+# Sistema de LLM/RAG
 
 ## Descrição
 Este projeto implementa um **sistema RAG (Retrieval-Augmented Generation)** utilizando o modelo **LLaMA 3.1** para realizar análises detalhadas de clientes, produtos e vendas.  
